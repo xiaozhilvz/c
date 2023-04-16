@@ -1,0 +1,8 @@
+﻿  轰炸.c
+D:\zousp\c\轰炸\轰炸.c(12,70): warning C4047: “函数”:“WPARAM”与“void *”的间接级别不同
+D:\zousp\c\轰炸\轰炸.c(12,66): warning C4024: “SendMessageA”: 形参和实参 3 的类型不同
+D:\zousp\c\轰炸\轰炸.c(12,76): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+D:\zousp\c\轰炸\轰炸.c(12,72): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+D:\zousp\c\轰炸\轰炸.c(13,81): warning C4047: “函数”:“LPARAM”与“void *”的间接级别不同
+D:\zousp\c\轰炸\轰炸.c(13,77): warning C4024: “SendMessageA”: 形参和实参 4 的类型不同
+  轰炸.vcxproj -> D:\zousp\c\轰炸\x64\Debug\轰炸.exe
